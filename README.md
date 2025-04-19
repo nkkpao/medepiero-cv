@@ -1,6 +1,6 @@
 # mediepiero
 
-Artist Website by medepiero
+Artist Website 
 
 Currently under development.
 
