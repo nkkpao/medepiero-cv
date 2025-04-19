@@ -1,0 +1,41 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact",
+    "language": "Language"
+  },
+
+  "hero": {
+    "title": "Hi, I'm medepiero — Artist & Web Designer",
+    "subtitle": "Bringing visuals to life — from UI design to custom character art.",
+    "cta": "Get in Touch"
+  },
+
+  "about": {
+    "title": "About Me",
+    "description": "I'm a digital artist and web designer with experience in game development. I contributed UI designs and character illustrations to indie projects and take commissions for custom character art — from concept to final piece."
+  },
+
+  "projects": {
+    "title": "My Projects",
+    "imagesTitle": "Work examples",
+    "p1": {
+      "title": "Game: Chrono Echoes",
+      "description": "Worked on an indie game project creating UI design, character illustrations, and in-game menus."
+    },
+    "p2": {
+      "title": "Portfolio Website",
+      "description": "A modern, responsive portfolio showcasing my art and design style."
+    },
+    "p3": {
+      "title": "Character Commissions",
+      "description": "Custom character art commissions — from fantasy to sci-fi themes."
+    }
+  },
+
+  "contact": {
+    "title": "Get in Touch"
+  }
+}
