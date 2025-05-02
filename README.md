@@ -1,5 +1,7 @@
 # mediepiero
 
+Vercel deployment: medepiero-cv.vercel.app
+
 Artist Website 
 
 Currently under development.
